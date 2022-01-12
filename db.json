@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ismael",
+      "empresa": "Delfini",
+      "email": "correo@correo.com",
+      "telefono": "32323232",
+      "notas": "Quiero comer comida\n",
+      "id": 2
+    },
+    {
+      "nombre": "Lucas",
+      "empresa": "Facebook",
+      "email": "correo@correo.com",
+      "telefono": "909009090",
+      "notas": "No quiere bañarse",
+      "id": 3
+    },
+    {
+      "nombre": "Maria",
+      "empresa": "Instagram",
+      "email": "correo@correo.com",
+      "telefono": "33223322",
+      "notas": "Quiere destruir el estado",
+      "id": 4
+    }
+  ]
+}
